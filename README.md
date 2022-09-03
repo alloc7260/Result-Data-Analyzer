@@ -15,12 +15,12 @@ Used Pandas for managing data in tabular format.
 
 Here i provided source codes for scrapping data and further used for analytics.
 
-### youtube (version 1) :
+## youtube (version 1) :
 
 https://youtu.be/2nPUuaq4RRI (gturesults.in)
 
 https://youtu.be/jXfwSVq0uA8 (students.gtu.ac.in)
 
-#### Enjoy!
+## Enjoy!
 
-#### Thank You!
+## Thank You!
