@@ -13,9 +13,9 @@ By using selenium and pytesseract ocr module we can scrap any Text Captcha Human
 
 Used Pandas for managing data in tabular format.
 
-Here i provided source codes for scrapping data for analytics.
+Here i provided source codes for scrapping data and further used for analytics.
 
-### youtube :
+### youtube (version 1) :
 
 https://youtu.be/2nPUuaq4RRI (gturesults.in)
 
